@@ -14,11 +14,3 @@
 
 <p style="animation: fadeIn 2s;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muz-muzzy&show_icons=true&locale=en" alt="muz-muzzy" /></p>
 
-<style>
-@keyframes fadeIn {
-  0% {opacity: 0;}
-  100% {opacity: 1;}
-}
-</style>
-
-
